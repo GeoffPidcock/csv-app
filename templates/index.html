@@ -8,7 +8,7 @@
     <h1>Soccer Games</h1>
     <ul>
         {% for data in data_list %}
-        <li><a href="/show/{{data['key']}}">{{ data['tornament'] }}: {{ data['date'] }}</a></li>
+        <li><a href="/show/{{data['key']}}"> {{data['tournament'] }} : {{data['date']}}</a></li>
         {% endfor %}
     </ul>
 
