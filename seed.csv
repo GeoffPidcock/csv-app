@@ -1,11 +1,11 @@
-date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,year
-2007-11-11,St. Martin,British Virgin Islands,0,1,Friendly,Marigot,St. Martin,False,2007
-2005-10-08,Uganda,Burkina Faso,2,2,FIFA World Cup qualification,Kampala,Uganda,False,2005
-1976-04-11,Kuwait,Saudi Arabia,3,1,Gulf Cup,Doha,Qatar,True,1976
-2003-02-12,Croatia,Poland,0,0,Friendly,Split,Croatia,False,2003
-1978-01-26,Sudan,Kenya,3,0,Friendly,Khartoum,Sudan,False,1978
-1993-11-22,Gambia,Mauritania,2,4,Friendly,Banjul,Gambia,False,1993
-1993-09-23,Saudi Arabia,Costa Rica,1,2,Friendly,Khobar,Saudi Arabia,False,1993
-2006-05-27,Germany,Luxembourg,7,0,Friendly,Freiburg,Germany,False,2006
-1909-03-21,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,False,1909
-1905-03-18,Scotland,Northern Ireland,4,0,British Championship,Glasgow,Scotland,False,1905
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,year,key
+2007-11-11,St. Martin,British Virgin Islands,0,1,Friendly,Marigot,St. Martin,False,2007,St. MartinBritish Virgin Islands2007-11-11
+2005-10-08,Uganda,Burkina Faso,2,2,FIFA World Cup qualification,Kampala,Uganda,False,2005,UgandaBurkina Faso2005-10-08
+1976-04-11,Kuwait,Saudi Arabia,3,1,Gulf Cup,Doha,Qatar,True,1976,KuwaitSaudi Arabia1976-04-11
+2003-02-12,Croatia,Poland,0,0,Friendly,Split,Croatia,False,2003,CroatiaPoland2003-02-12
+1978-01-26,Sudan,Kenya,3,0,Friendly,Khartoum,Sudan,False,1978,SudanKenya1978-01-26
+1993-11-22,Gambia,Mauritania,2,4,Friendly,Banjul,Gambia,False,1993,GambiaMauritania1993-11-22
+1993-09-23,Saudi Arabia,Costa Rica,1,2,Friendly,Khobar,Saudi Arabia,False,1993,Saudi ArabiaCosta Rica1993-09-23
+2006-05-27,Germany,Luxembourg,7,0,Friendly,Freiburg,Germany,False,2006,GermanyLuxembourg2006-05-27
+1909-03-21,Belgium,Netherlands,1,4,Friendly,Antwerp,Belgium,False,1909,BelgiumNetherlands1909-03-21
+1905-03-18,Scotland,Northern Ireland,4,0,British Championship,Glasgow,Scotland,False,1905,ScotlandNorthern Ireland1905-03-18
